@@ -197,8 +197,6 @@ http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,#EXTINF:-1 group-title="VLC" tvg-id="MEGA_HD" tvg-logo="" tvg-name="MEGA HD",MEGA HD
-http://127.0.0.1:6878/ace/getstream?id=http://127.0.0.1:6878/ace/getstream?id=cc5f7b6ea29b19b5ec6eef565d49a698340b4943&hlc=1&spv=0
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Win Sport Colombia
 http://127.0.0.1:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Ziggo Sport Select
