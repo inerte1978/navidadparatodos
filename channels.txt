@@ -227,6 +227,22 @@ http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TVP Sport HD
+http://127.0.0.1:6878/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal+ Sport 5
+http://127.0.0.1:6878/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Viasat Sport
+http://127.0.0.1:6878/ace/getstream?id=2733312fe2524de84ed72ec85d1ed403660b2d4d
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Sport Digital HD
+http://127.0.0.1:6878/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Polsat Sport Premium 1
+http://127.0.0.1:6878/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Polsat Sport Premium 2
+http://127.0.0.1:6878/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Polsat Sport Extra
+http://127.0.0.1:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+#EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,BT Sport/Espn
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,NBA 3 [US]
 http://127.0.0.1:6878/ace/getstream?id=30973e4a87cb92c85430bce617736c64a9e2fb32
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Setanta Sport FHD
