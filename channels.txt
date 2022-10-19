@@ -1,12 +1,16 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LA LIGA
 http://127.0.0.1:6878/ace/getstream?id=87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LIGA HD_M
+http://127.0.0.1:6878/ace/getstream?id=23e5a75b8cbd6db63ed608f7b3da1383ee6ba301
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LIGA HD_M
+http://127.0.0.1:6878/ace/getstream?id=bc04ba376d2b410b3890f7991412f51bc26852f4
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio
+http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 2
 http://127.0.0.1:6878/ace/getstream?id=1124d4366348b76a755710c8d0d5728e39d0095c
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio 
 http://127.0.0.1:6878/ace/getstream?id=fee5612d57824b6e8db780f210ec54093056dc3a
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 1080 MultiAudio
-http://127.0.0.1:6878/ace/getstream?id=df98650743f24a245c44cdf2851e57078f4c487a
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn Liga 720 
 http://127.0.0.1:6878/ace/getstream?id=c35d2207792128fc0ae49c40e885c463f664dbce
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLigaHD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,Dazn LaLiga multiaudio
@@ -185,10 +189,8 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Evento 1
-http://127.0.0.1:6878/ace/getstream?id=ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Evento 2
-http://127.0.0.1:6878/ace/getstream?id=3d783550706c36af82b5dc053bbf4170173da4c2
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Elche VS real Madrid 1080 multiaudio 
+http://127.0.0.1:6878/ace/getstream?id=43f8d231888b6d87a85cc1a8d8b6b344ca365c1c
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
 http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 #EXTINF:-1 group-title="Otro contenido" tvg-id="GOL HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080
@@ -361,6 +363,10 @@ http://127.0.0.1:6878/ace/getstream?id=541188d4c73b20e7779f226910499b3803ee6875
 http://127.0.0.1:6878/ace/getstream?id=1f2a653c427edfc7c9d3db31cfe92f3a243a2326
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ORF SPORT+ HD
 http://127.0.0.1:6878/ace/getstream?id=cd26e6f9a3ba26143a8f30ac9709913a9d2d4235
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Evento 1
+http://127.0.0.1:6878/ace/getstream?id=ea905f0ecae1f5c031dce44788aec56d6ec1ca8b
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Evento 2
+http://127.0.0.1:6878/ace/getstream?id=3d783550706c36af82b5dc053bbf4170173da4c2
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Evento 3
 http://127.0.0.1:6878/ace/getstream?id=f27a8df4c15bdc1ff616d8c4fa439a66aa5608f1
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Evento 4
