@@ -183,7 +183,7 @@ http://127.0.0.1:6878/ace/getstream?id=d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
 http://127.0.0.1:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,Canal #Ellas
 http://127.0.0.1:6878/ace/getstream?id=107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,F1 4K
+#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,eventual 4K (F1)
 http://127.0.0.1:6878/ace/getstream?id=517fccc871a669b0ca2c2cb8a7036bddf1c6a8d9
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,SmartBanck 720
 http://127.0.0.1:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
@@ -221,8 +221,6 @@ http://127.0.0.1:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 http://127.0.0.1:6878/ace/getstream?id=9a8c5485a38e9399e81b3eed23e588946946039f
 #EXTINF:-1 group-title="Otro contenido" tvg-id="ESPN" tvg-logo="https://i.imgur.com/vv9mfSp.png" ,ESPN EXTRA Uruguay
 http://127.0.0.1:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,eventual 4K (F1)
-http://127.0.0.1:6878/ace/getstream?id=6ab9beb4fba3759688f201e941099b7e0c75ecec
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,UNTITLED CHANNEL
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,TVP Sport HD
